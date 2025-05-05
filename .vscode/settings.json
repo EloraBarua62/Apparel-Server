@@ -1,3 +1,9 @@
 {
-  "python.analysis.extraPaths": ["./src/db"]
+  "python.analysis.extraPaths": ["./src/db"],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
 }
